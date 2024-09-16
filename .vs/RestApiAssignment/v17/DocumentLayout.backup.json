@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|c:\\users\\mercan esen\\desktop\\restapiassignment\\restapiassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|solutionrelative:restapiassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|c:\\users\\mercan esen\\desktop\\restapiassignment\\restapiassignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|solutionrelative:restapiassignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|c:\\users\\mercan esen\\desktop\\restapiassignment\\restapiassignment\\fileservice\\queryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|solutionrelative:restapiassignment\\fileservice\\queryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|c:\\users\\mercan esen\\desktop\\restapiassignment\\restapiassignment\\fileservice\\iqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|solutionrelative:restapiassignment\\fileservice\\iqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|c:\\users\\mercan esen\\desktop\\restapiassignment\\restapiassignment\\fileservice\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|solutionrelative:restapiassignment\\fileservice\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|c:\\users\\mercan esen\\desktop\\restapiassignment\\restapiassignment\\fileservice\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|solutionrelative:restapiassignment\\fileservice\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|c:\\users\\mercan esen\\desktop\\restapiassignment\\restapiassignment\\entities\\queryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|solutionrelative:restapiassignment\\entities\\queryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|c:\\users\\mercan esen\\desktop\\restapiassignment\\restapiassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74C9BFD-0838-4CCF-A321-33C62E299D36}|RestApiAssignment\\RestApiAssignment.csproj|solutionrelative:restapiassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\appsettings.json",
+              "RelativeDocumentMoniker": "RestApiAssignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\appsettings.json",
+              "RelativeToolTip": "RestApiAssignment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T11:17:55.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\FileService\\IFileService.cs",
+              "RelativeDocumentMoniker": "RestApiAssignment\\FileService\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\FileService\\IFileService.cs",
+              "RelativeToolTip": "RestApiAssignment\\FileService\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:35:33.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestApiAssignment\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestApiAssignment\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T14:35:14.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "RestApiAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\Program.cs",
+              "RelativeToolTip": "RestApiAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:19:43.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\FileService\\QueryService.cs",
+              "RelativeDocumentMoniker": "RestApiAssignment\\FileService\\QueryService.cs",
+              "ToolTip": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\FileService\\QueryService.cs",
+              "RelativeToolTip": "RestApiAssignment\\FileService\\QueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:17:30.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\FileService\\IQueryService.cs",
+              "RelativeDocumentMoniker": "RestApiAssignment\\FileService\\IQueryService.cs",
+              "ToolTip": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\FileService\\IQueryService.cs",
+              "RelativeToolTip": "RestApiAssignment\\FileService\\IQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:17:29.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueryRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\Entities\\QueryRecord.cs",
+              "RelativeDocumentMoniker": "RestApiAssignment\\Entities\\QueryRecord.cs",
+              "ToolTip": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\Entities\\QueryRecord.cs",
+              "RelativeToolTip": "RestApiAssignment\\Entities\\QueryRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:16:44.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\FileService\\FileService.cs",
+              "RelativeDocumentMoniker": "RestApiAssignment\\FileService\\FileService.cs",
+              "ToolTip": "C:\\Users\\Mercan Esen\\Desktop\\RestApiAssignment\\RestApiAssignment\\FileService\\FileService.cs",
+              "RelativeToolTip": "RestApiAssignment\\FileService\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:16:05.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
